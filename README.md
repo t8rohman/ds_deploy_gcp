@@ -3,6 +3,6 @@ Studying and exercising material to deploy data science and machine learning mod
 
 The exercise includes:
 1. 01_ingest
-   - Ingesting data from external
-   - Deploy the ingestion app using flask
-   - Containerize it into a docker container
+   - Ingesting data from external, here we're using <a href="www.transtats.bts.gov">BTS data</a>.
+   - Deploy the ingestion app using flask.
+   - Containerize it into a docker container.
