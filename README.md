@@ -12,4 +12,4 @@ The exercise includes:
 2. 02_streaming
    - Create streaming transformation using <b>Apache Beam</b> on local file.
    - Moving and running the local transformation to <b>Google Dataflow</b>.
-   - Simulate the streaming data, and publish it using Google Pub/Sub.
+   - Simulate the streaming data, and publish it using <b>Google Pub/Sub</b>.
