@@ -13,3 +13,8 @@ The exercise includes:
    - Create streaming transformation using <b>Apache Beam</b> on local file.
    - Moving and running the local transformation to <b>Google Dataflow</b>.
    - Simulate the streaming data, and publish it using <b>Google Pub/Sub</b>.
+  
+3. 03_pyspark
+   - Create a simple bayes model using <b>Apache Spark.</b>
+   - Shell command editor to convert notebook to .py file using nbconvert.
+   - Can be ran on Google Dataproc, please check the source's github.
