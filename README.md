@@ -18,3 +18,7 @@ The exercise includes:
    - Create a simple bayes model using <b>Apache Spark.</b>
    - Shell command editor to convert notebook to .py file using nbconvert.
    - Can be ran on Google Dataproc, please check the source's github.
+  
+4. 04_sparkml
+   - Create a logistic regression model using MLLib from <b>Pyspark.</b>
+   - Evaluate the model manually.
