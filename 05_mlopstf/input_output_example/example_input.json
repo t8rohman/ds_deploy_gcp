@@ -1,0 +1,8 @@
+{
+    "DEP_DELAY": 10.0,
+    "TAXI_OUT": 17.0,
+    "DISTANCE": 304.0,
+    "CARRIER": "AA",
+    "ORIGIN": "SAN",
+    "DEST": "PHX"
+}
