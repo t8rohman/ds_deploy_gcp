@@ -22,3 +22,9 @@ The exercise includes:
 4. 04_sparkml
    - Create a logistic regression model using MLLib from <b>Pyspark.</b>
    - Evaluate the model manually.
+
+5. 05_mlopstf
+   - Program for training the model and save it into local drive.
+   - Use the model to make a prediction on an input data.
+   - All done using <b>TensorFlow</b> library.
+   - Both of the programs are containerized already in a <b>Docker</b>.
